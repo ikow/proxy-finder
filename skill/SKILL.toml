@@ -1,0 +1,4 @@
+[skill]
+name = "proxy-finder"
+version = "2.0.0"
+description = "Find fast, validated free HTTP/HTTPS/SOCKS4/SOCKS5 proxies instantly. Standalone tool — no server required. Supports multiple output formats for direct tool integration (curl, env, proxychains, Python, JSON)."
